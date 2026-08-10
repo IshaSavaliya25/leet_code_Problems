@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
