@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1934-confirmation-rate/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
