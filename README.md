@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
