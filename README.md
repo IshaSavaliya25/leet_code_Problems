@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
