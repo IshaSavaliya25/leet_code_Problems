@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
