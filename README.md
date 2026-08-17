@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
