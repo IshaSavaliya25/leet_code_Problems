@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
+| [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 <!---LeetCode Topics End-->
