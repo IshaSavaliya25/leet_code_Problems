@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
 | [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
