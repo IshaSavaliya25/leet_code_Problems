@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
 | [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 <!---LeetCode Topics End-->
