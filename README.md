@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
