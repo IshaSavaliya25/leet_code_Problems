@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
