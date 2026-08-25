@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1002-find-common-characters](https://github.com/IshaSavaliya25/leet_code_Problems/tree/main/1002-find-common-characters/) | Easy |
 <!---LeetCode Topics End-->
